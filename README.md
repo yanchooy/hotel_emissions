@@ -29,7 +29,7 @@ With datasets spanning 2016 - 2021 (excluding 2020) and the participation of 64 
 ![mean_median_3](https://github.com/yanchooy/hotel_emissions/assets/109457905/836c60ca-2888-4cfb-8842-8a75d9c7e570)
 
 ## Carbon emission - Highest and Lowest emitter  - All Hotels 2019
-See documentation for detailed observations
+See [documentation](https://nbviewer.org/github/yanchooy/hotel_emissions/blob/main/global-hotel-emissions-trend-2016-2021.ipynb) for detailed observations
 
 ![carbon_1](https://github.com/yanchooy/hotel_emissions/assets/109457905/a0751889-85bc-4a3e-a114-a309c520f963)
 ![carbon_2](https://github.com/yanchooy/hotel_emissions/assets/109457905/8334f020-8f1c-493e-a1c2-b9266aad4279)
@@ -42,18 +42,18 @@ Hotel market segments are divided into the following
 - Upscale
 - Upper Upscale
 - Luxury
-See documentation for detailed observations
+See [documentation](https://nbviewer.org/github/yanchooy/hotel_emissions/blob/main/global-hotel-emissions-trend-2016-2021.ipynb) for detailed observations
 ![carbon_seg_1](https://github.com/yanchooy/hotel_emissions/assets/109457905/2d86a577-e5ee-4bdf-9a64-ec72afc1f6fd)
 ![carbon_seg_2](https://github.com/yanchooy/hotel_emissions/assets/109457905/21343f20-fceb-46ab-aa19-a66541a50e97)
 ![carbon_seg_3](https://github.com/yanchooy/hotel_emissions/assets/109457905/ec0a31f3-4096-43a9-9721-bad4d6975a9b)
 
 ## Water and Energy usage - Highest and Lowest emitter - All Hotels & By Hotel Segments 2019
 The same analysis was performed for water and energy usage.
-See documentation for detailed observations and visualisation
+See [documentation](https://nbviewer.org/github/yanchooy/hotel_emissions/blob/main/global-hotel-emissions-trend-2016-2021.ipynb) for detailed observations and visualisation
 
-## Comparing data across years between 2016 - 2021 
+## Comparing carbon emission data across years between 2016 - 2021 
 - Created function to import all 5 excel sheets in their multi-tabs into dataframes and perform same data cleaning
-- Used plotly raceplot and lineplot to visualise top emitting countries changes throughout the years
+- Used plotly raceplot and lineplot to visualise top emitting countries changes throughout the years. See all visualisations [here](https://nbviewer.org/github/yanchooy/hotel_emissions/blob/main/global-hotel-emissions-trend-2016-2021.ipynb)
 ![raceplot_1](https://github.com/yanchooy/hotel_emissions/assets/109457905/a2961134-2626-4183-afd9-75ced7908ebd)
 
 ![lineplot](https://github.com/yanchooy/hotel_emissions/assets/109457905/3c2cdc0b-8b20-48a9-b0f2-3da850f500c4)
